@@ -1,4 +1,4 @@
-# LawFirmManagement-DatabaseDesign
+# Law Firm Management-Database Design
 
 This document provides an overview of the database design for a law firm management system. The database is designed to efficiently manage and track various aspects of law firm operations, including cases, clients, employees, Case expenses, and Case activities. The design ensures data integrity, consistency, and accessibility, facilitating smooth business processes and decision-making.
 
